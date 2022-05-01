@@ -10,8 +10,7 @@ This project is made with Ionic-React, Python Flask and Keras-pretrained ResNetV
 To start the project,
 1. First start the server:
    run the InResnetV2.py file
-2. Start your app (web-app or deployed app):
-   to start the app on localhost: 
+2. Start your app (web-app or deployed app). To start the app on localhost: 
    - cd ../myApp/
    - npm start
 
