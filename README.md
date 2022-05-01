@@ -6,6 +6,9 @@ It is made for course module CZ4171 project submission.
 ## Technologies
 This project is made with Ionic-React, Python Flask and Keras-pretrained ResNetV2 model (trained on cifar10).
 
+## Information
+The server file is under Model folder.
+
 ## Setup
 To start the project,
 1. First start the server:
